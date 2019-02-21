@@ -1,0 +1,23 @@
+.servicesTop {
+
+  margin-top:40px;
+  padding-bottom: 650px;
+  background-image: url('/assets/home.png');
+  background-repeat:no-repeat;
+  background-size:cover;
+  position: relative;
+  margin-right:0px;
+  margin-left: 0px;
+
+}
+
+.layer {
+  /* this is a change */
+  background-color:  rgba(247, 247, 247, 0.1);
+  padding-top: 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
